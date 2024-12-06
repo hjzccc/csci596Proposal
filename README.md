@@ -1,4 +1,4 @@
-# CSCI596 - Final
+# CSCI596Proposal - Adaptive CPU-GPU Offloading Framework for Multi-Modal AI Models
 
 ![alt text](Example-distributed-training-configuration-with-3D-parallelism-with-2-data-parallel.png)
 
